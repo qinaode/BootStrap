@@ -1,0 +1,5 @@
+\\psf\Home\Desktop\Bootstrap\Bootstrap\bin\Bootstrap.dll
+\\psf\Home\Desktop\Bootstrap\Bootstrap\bin\Bootstrap.pdb
+\\psf\Home\Desktop\Bootstrap\Bootstrap\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\Bootstrap\Bootstrap\obj\Debug\Bootstrap.dll
+\\psf\Home\Desktop\Bootstrap\Bootstrap\obj\Debug\Bootstrap.pdb
